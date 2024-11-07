@@ -24,3 +24,7 @@ send "{w up}"
 ```
 
 this will walk 20 flowers, and will adjust to movespeed changes in REAL time.
+
+Requirements:
+Display scale - 100%
+Fullscreen Roblox (unless microsoft store version)
