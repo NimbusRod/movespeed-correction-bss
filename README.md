@@ -28,3 +28,5 @@ this will walk 20 flowers, and will adjust to movespeed changes in REAL time.
 Requirements:
 Display scale - 100%
 Fullscreen Roblox (unless microsoft store version)
+
+dm golden_sock on discord if you have any issues
