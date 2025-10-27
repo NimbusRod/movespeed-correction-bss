@@ -13,7 +13,7 @@ How to use?
 5. add the following code at the start of the script
 ```ahk
 #Include 'Walk.ahk' ; assuming its in the same directory, if not, add a path to it
-SendMove  "Event"
+SendMode  "Event"
 ```
 
 now your code will have Walk() function
