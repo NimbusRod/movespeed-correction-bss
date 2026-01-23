@@ -55,7 +55,7 @@ GetRobloxHWND()
 GetYOffset(hwnd?, &fail?)
 {
 	global bitmaps
-	MsgBox(bitmaps['toppollen'])
+	; MsgBox(bitmaps['toppollen'])
 	static hRoblox := 0, offset := 0
     if !IsSet(hwnd)
         hwnd := GetRobloxHWND()
